@@ -1,2 +1,0 @@
-# IFT
-College mini project
